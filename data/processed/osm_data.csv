@@ -1,0 +1,154 @@
+strength,opponent_formation,opponent_style_of_play,opponent_marking,opponent_offside_trap,opponent_tackling,opponent_training_camp,formation,style_of_play,marking,offside_trap,tackling,training_camp,line_tactic_FW,line_tactic_MF,line_tactic_DF,pressing,style,tempo,goals,opponent_goals,goal_diff,posession,opponent_posession,shots,opponent_shots,result
+weak,4-3-3 b,shoot on sight,zonal marking,no,aggresive,no,4-2-3-1,shoot on sight,man marking,yes,aggresive,no,attack only,protect the defence,defend deep,55,46,39,3,0,3,63,37,11,3,won
+strong,4-2-3-1,passing game,zonal marking,no,normal,no,4-2-3-1,shoot on sight,man marking,yes,aggresive,no,attack only,protect the defence,defend deep,55,46,39,1,0,1,61,39,8,4,won
+weak,4-4-2 b,shoot on sight,man marking,no,aggresive,no,4-2-3-1,shoot on sight,man marking,yes,aggresive,no,attack only,protect the defence,defend deep,55,46,39,1,0,1,68,32,10,3,won
+equal,4-2-3-1,passing game,zonal marking,no,normal,no,6-3-1 b,counter-attack,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,50,24,65,2,0,2,58,42,6,4,won
+weak,4-2-3-1,passing game,zonal marking,no,normal,no,6-3-1 b,counter-attack,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,51,25,66,1,0,1,62,38,8,3,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,69,67,73,3,0,3,63,37,18,5,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,71,71,71,4,0,4,64,36,22,1,won
+equal,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,attacking full-backs,75,75,75,1,0,1,61,39,10,4,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,75,75,75,1,0,1,52,48,8,8,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,75,75,75,2,0,2,62,38,11,4,won
+weak,3-4-3 a,shoot on sight,zonal marking,yes,normal,no,3-5-2,shoot on sight,man marking,yes,normal,no,attack only,stay in position,defend deep,58,36,54,3,0,3,66,34,11,4,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,3-3-4 a,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,75,75,75,3,0,3,65,35,14,9,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,82,78,77,3,0,3,63,37,12,3,won
+weak,4-3-3 a,passing game,zonal marking,no,aggresive,no,4-5-1,shoot on sight,zonal marking,no,aggresive,no,attack only,protect the defence,defend deep,40,20,25,1,0,1,50,50,8,8,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,85,79,79,2,0,2,59,41,10,7,won
+weak,4-3-3 b,shoot on sight,zonal marking,yes,normal,no,4-5-1,shoot on sight,zonal marking,no,normal,no,attack only,protect the defence,defend deep,40,10,60,0,1,1,53,47,7,6,lost
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,85,79,79,4,0,4,60,40,9,6,won
+strong,4-3-3 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 a,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,65,77,66,3,1,2,63,37,14,7,won
+strong,3-3-2-2,long ball,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,85,79,79,4,0,4,61,39,10,5,won
+strong,4-2-3-1,counter-attack,zonal marking,no,aggresive,no,4-5-1,shoot on sight,zonal marking,no,aggresive,no,attack only,push forward,defend deep,61,63,79,3,1,2,66,34,10,4,won
+weak,4-3-3 a,wing play,zonal marking,no,aggresive,yes,4-5-1,shoot on sight,zonal marking,no,aggresive,no,attack only,protect the defence,defend deep,40,20,25,0,4,4,43,57,8,11,lost
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,aggresive,no,attack only,stay in position,defend deep,76,77,76,1,0,1,61,39,15,5,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,3-3-4 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,67,75,73,3,0,3,63,37,17,6,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,defend deep,82,78,77,2,0,2,66,34,12,5,won
+weak,4-4-2 b,shoot on sight,zonal marking,no,aggresive,no,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,attack only,protect the defence,defend deep,50,29,70,0,1,1,45,55,4,6,lost
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,protect the defence,attacking full-backs,82,78,77,1,0,1,55,45,9,8,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,aggresive,no,attack only,stay in position,defend deep,66,67,78,5,0,5,65,35,16,4,won
+weak,4-3-3 a,wing play,zonal marking,no,aggresive,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,protect the defence,attacking full-backs,82,78,77,0,2,2,38,62,9,15,lost
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,push forward,defend deep,82,78,77,3,0,3,58,42,9,7,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,3-3-4 b,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,77,78,78,5,0,5,65,35,20,4,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,shoot on sight,zonal marking,no,aggresive,no,attack only,push forward,defend deep,73,71,57,2,0,2,61,39,8,5,won
+weak,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,4-5-1,shoot on sight,zonal marking,no,aggresive,no,attack only,protect the defence,defend deep,62,21,59,1,3,2,49,51,5,6,lost
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,3-3-4 b,wing play,zonal marking,no,careful,no,attack only,push forward,defend deep,77,78,78,1,0,1,61,39,19,6,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,3-3-4 b,wing play,zonal marking,no,careful,no,attack only,push forward,defend deep,82,78,77,2,0,2,70,30,16,7,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,73,71,71,1,0,1,62,38,10,5,won
+weak,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,6-3-1 b,counter-attack,zonal marking,no,normal,no,attack only,push forward,defend deep,62,58,73,1,0,1,58,42,8,4,won
+strong,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,6-3-1 b,shoot on sight,zonal marking,no,aggresive,no,attack only,push forward,defend deep,73,75,77,5,0,5,69,31,11,3,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,3-3-4 b,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,73,78,76,5,0,5,70,30,17,7,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,defend deep,73,71,71,4,0,4,69,31,11,3,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,defend deep,71,71,73,2,0,2,70,30,12,4,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,careful,no,attack only,push forward,defend deep,76,77,76,4,0,4,64,36,11,3,won
+strong,4-5-1,long ball,zonal marking,no,aggresive,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,78,78,78,1,0,1,61,39,16,1,won
+strong,4-4-2 b,wing play,zonal marking,no,aggresive,no,4-3-3 b,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,58,67,58,3,0,3,63,37,18,5,won
+strong,4-3-3 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 a,shoot on sight,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,64,68,53,1,0,1,61,39,13,5,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,3-3-4 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,73,78,76,3,0,3,70,30,16,7,won
+strong,4-3-3 a,passing game,man marking,yes,normal,no,4-3-3 b,shoot on sight,zonal marking,no,careful,no,attack only,push forward,defend deep,66,78,66,3,0,3,70,30,15,5,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,aggresive,no,attack only,push forward,defend deep,73,71,71,3,0,3,65,35,11,5,won
+weak,4-3-3 a,shoot on sight,man marking,no,aggresive,no,4-5-1,shoot on sight,zonal marking,yes,careful,no,attack only,protect the defence,defend deep,40,20,50,0,0,0,60,40,10,4,draw
+strong,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,6-3-1 b,counter-attack,zonal marking,no,careful,no,attack only,push forward,defend deep,62,62,76,1,0,1,61,39,7,3,won
+strong,4-3-3 b,wing play,zonal marking,no,aggresive,no,4-3-3 a,wing play,zonal marking,no,careful,no,attack only,push forward,defend deep,65,78,66,5,0,5,65,35,18,8,won
+strong,5-3-1-1,shoot on sight,zonal marking,no,aggresive,no,4-4-2 b,passing game,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,65,72,65,1,0,1,57,43,10,8,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,3-3-4 b,wing play,zonal marking,yes,aggresive,no,attack only,push forward,defend deep,77,78,78,6,0,6,66,34,20,4,won
+strong,4-4-2 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,push forward,defend deep,75,75,59,6,0,6,66,34,18,3,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,attacking full-backs,75,75,75,5,0,5,65,35,14,3,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,push forward,defend deep,75,75,59,3,0,3,63,37,17,6,won
+weak,4-2-3-1,passing game,zonal marking,no,normal,no,6-3-1 b,counter-attack,zonal marking,no,normal,no,attack only,push forward,defend deep,78,78,78,2,0,2,66,34,10,3,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,careful,no,attack only,push forward,defend deep,75,75,75,2,1,1,54,46,8,7,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,shoot on sight,zonal marking,no,careful,no,attack only,push forward,defend deep,75,75,75,2,1,1,71,29,14,3,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,69,67,73,5,0,5,65,35,19,4,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,shoot on sight,zonal marking,no,careful,no,attack only,push forward,defend deep,75,75,75,1,0,1,63,37,11,6,won
+strong,4-3-3 b,passing game,man marking,yes,careful,no,4-3-3 a,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,65,77,66,1,0,1,61,39,17,6,won
+strong,3-3-4 a,shoot on sight,zonal marking,yes,reckless,no,4-3-3 b,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,75,75,75,2,1,1,62,38,14,7,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,push forward,defend deep,75,75,75,6,0,6,66,34,20,5,won
+weak,4-4-2 b,wing play,man marking,no,aggresive,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,75,75,75,7,0,7,70,30,19,1,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 a,wing play,zonal marking,no,aggresive,no,attack only,push forward,defend deep,75,75,75,2,0,2,62,38,13,9,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,defend deep,75,75,75,5,0,5,70,30,12,3,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,aggresive,no,attack only,push forward,defend deep,78,78,78,1,0,1,61,39,11,4,won
+weak,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,5,0,5,70,30,15,7,won
+strong,4-3-3 b,wing play,zonal marking,no,aggresive,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,defend deep,75,75,75,3,1,2,50,50,13,14,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,attacking full-backs,75,75,58,2,0,2,62,38,10,6,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,9,0,9,70,30,20,5,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,3,0,3,70,30,19,6,won
+weak,4-3-3 b,shoot on sight,zonal marking,no,aggresive,no,4-2-3-1,shoot on sight,man marking,yes,careful,no,attack only,protect the defence,defend deep,55,46,39,1,1,0,53,47,11,10,draw
+strong,3-4-3 a,shoot on sight,zonal marking,yes,normal,no,3-5-2,shoot on sight,man marking,yes,aggresive,no,attack only,push forward,defend deep,60,50,55,6,0,6,66,34,13,1,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,75,75,75,5,1,4,71,29,19,5,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,75,75,75,2,1,1,62,38,18,4,won
+equal,4-4-2 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,5,0,5,56,44,12,10,won
+strong,5-2-3 a,shoot on sight,zonal marking,no,aggresive,no,4-4-2 b,passing game,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,2,0,2,70,30,12,5,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,75,75,75,5,0,5,65,35,15,8,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,75,75,75,4,0,4,70,30,12,3,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,4,1,3,71,29,17,7,won
+strong,3-3-2-2,long ball,zonal marking,yes,normal,no,4-4-2 b,shoot on sight,zonal marking,yes,normal,no,attack only,stay in position,attacking full-backs,85,79,79,1,0,1,55,45,8,6,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,shoot on sight,zonal marking,yes,normal,no,attack only,push forward,defend deep,66,78,66,2,1,1,71,29,18,5,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,careful,no,attack only,stay in position,defend deep,70,70,70,2,0,2,70,30,14,3,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,64,75,75,7,0,7,70,30,16,6,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,normal,no,attack only,stay in position,defend deep,66,67,78,5,0,5,65,35,18,4,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,normal,no,attack only,stay in position,defend deep,66,67,78,6,0,6,66,34,17,3,won
+weak,4-3-3 b,wing play,zonal marking,no,normal,no,4-3-3 a,wing play,zonal marking,no,careful,no,attack only,push forward,defend deep,65,78,66,0,3,3,44,56,12,14,lost
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,aggresive,no,attack only,stay in position,defend deep,66,67,78,2,1,1,60,40,11,9,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,58,67,58,4,0,4,61,39,14,10,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,normal,no,attack only,stay in position,defend deep,66,67,78,4,0,4,70,30,20,2,won
+strong,5-3-1-1,shoot on sight,zonal marking,no,aggresive,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,defend deep,65,72,65,3,0,3,70,30,11,4,won
+strong,5-4-1 a,shoot on sight,zonal marking,no,aggresive,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,defend deep,65,72,65,5,0,5,70,30,17,6,won
+strong,4-3-3 b,shoot on sight,zonal marking,no,reckless,no,4-4-2 b,passing game,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,4,1,3,64,36,14,7,won
+equal,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,aggresive,no,attack only,push forward,defend deep,75,75,75,0,0,0,60,40,10,5,draw
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,careful,no,attack only,stay in position,defend deep,66,67,78,4,1,3,64,36,13,8,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,69,67,73,5,0,5,65,35,18,6,won
+strong,4-3-3 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 a,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,65,77,66,4,0,4,70,30,18,3,won
+strong,4-2-3-1,counter-attack,zonal marking,no,aggresive,no,4-5-1,shoot on sight,zonal marking,no,careful,no,attack only,push forward,defend deep,61,63,79,5,0,5,65,35,12,1,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,75,75,75,1,0,1,70,30,12,4,won
+strong,4-3-3 b,shoot on sight,zonal marking,no,reckless,no,4-3-3 a,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,66,77,66,0,0,0,60,40,18,10,draw
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,aggresive,no,attack only,push forward,defend deep,76,77,76,4,0,4,69,31,11,4,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,attacking full-backs,75,75,75,1,0,1,61,39,13,2,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,passing game,man marking,no,aggresive,no,attack only,stay in position,defend deep,66,67,78,1,0,1,70,30,13,5,won
+weak,4-3-3 a,passing game,zonal marking,no,aggresive,yes,4-5-1,shoot on sight,zonal marking,no,reckless,yes,attack only,protect the defence,defend deep,40,20,25,0,2,2,45,55,5,8,lost
+strong,4-3-3 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 a,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,65,77,66,3,0,3,63,37,12,4,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,73,71,71,4,0,4,70,30,13,2,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,85,79,79,1,0,1,61,39,9,6,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,58,67,58,0,0,0,66,34,14,8,draw
+strong,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,6-3-1 b,counter-attack,zonal marking,no,normal,no,attack only,push forward,defend deep,78,78,78,1,1,0,58,42,7,5,draw
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,58,67,58,5,0,5,70,30,19,4,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,defend deep,73,71,71,2,0,2,62,38,9,6,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,71,71,71,7,0,7,67,33,16,6,won
+strong,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,4-5-1,wing play,zonal marking,no,aggresive,no,attack only,push forward,defend deep,61,63,79,1,0,1,61,39,10,1,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,aggresive,no,attack only,stay in position,attacking full-backs,75,75,58,3,0,3,63,37,12,5,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,aggresive,no,attack only,stay in position,defend deep,66,67,78,3,0,3,63,37,15,5,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,stay in position,defend deep,75,75,75,3,0,3,59,41,9,6,won
+strong,4-3-3 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 a,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,65,77,66,1,0,1,70,30,18,3,won
+weak,4-3-3 b,wing play,zonal marking,no,aggresive,no,4-5-1,shoot on sight,zonal marking,no,aggresive,no,attack only,protect the defence,defend deep,50,35,65,0,3,3,39,61,7,12,lost
+strong,4-2-3-1,long ball,zonal marking,no,aggresive,no,4-5-1,shoot on sight,zonal marking,no,normal,no,attack only,push forward,defend deep,73,75,77,1,0,1,70,30,14,2,won
+strong,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,4-5-1,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,61,63,79,3,0,3,63,37,14,4,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,normal,no,attack only,stay in position,defend deep,66,67,78,6,0,6,66,34,19,4,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,71,71,71,2,0,2,70,30,16,4,won
+weak,3-4-3 b,passing game,man marking,no,careful,no,3-5-2,shoot on sight,man marking,yes,careful,no,attack only,stay in position,defend deep,58,36,54,0,0,0,46,54,6,8,draw
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,71,71,71,7,0,7,70,30,18,5,won
+strong,4-3-3 b,wing play,zonal marking,no,aggresive,no,4-4-2 b,passing game,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,8,0,8,70,30,20,2,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,aggresive,no,attack only,stay in position,defend deep,75,75,75,3,0,3,63,37,9,6,won
+strong,4-4-2 b,shoot on sight,man marking,yes,aggresive,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,71,71,71,3,0,3,63,37,16,7,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,normal,no,attack only,stay in position,defend deep,66,67,78,5,0,5,70,30,15,4,won
+strong,5-3-1-1,shoot on sight,zonal marking,no,aggresive,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,defend deep,65,72,65,1,0,1,61,39,14,4,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,attacking full-backs,75,75,75,4,0,4,53,47,7,8,won
+strong,4-2-3-1,shoot on sight,zonal marking,no,aggresive,no,4-5-1,wing play,zonal marking,no,careful,no,attack only,push forward,defend deep,61,63,79,4,0,4,64,36,13,3,won
+strong,4-3-3 a,passing game,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,yes,aggresive,no,attack only,stay in position,defend deep,66,67,78,4,0,4,64,36,15,6,won
+weak,4-4-2 b,wing play,man marking,no,aggresive,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,75,75,75,3,0,3,70,30,20,4,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,careful,no,attack only,push forward,defend deep,73,71,71,2,1,1,63,37,11,6,won
+strong,4-4-2 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,5,0,5,70,30,15,4,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,aggresive,no,attack only,push forward,defend deep,76,77,76,1,0,1,61,39,10,5,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,careful,no,attack only,stay in position,attacking full-backs,85,79,79,2,0,2,62,38,14,2,won
+strong,4-4-2 b,wing play,man marking,no,aggresive,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,4,0,4,64,36,15,8,won
+strong,4-4-2 b,wing play,zonal marking,no,aggresive,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,75,75,75,7,0,7,70,30,19,5,won
+strong,3-3-4 a,shoot on sight,zonal marking,yes,reckless,no,3-3-4 b,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,73,78,76,7,0,7,70,30,19,4,won
+weak,4-3-3 a,passing game,zonal marking,no,aggresive,yes,5-3-2,shoot on sight,zonal marking,no,aggresive,yes,attack only,protect the defence,defend deep,31,21,30,0,3,3,37,63,6,13,lost
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,attacking full-backs,82,78,77,5,0,5,65,35,14,3,won
+strong,3-3-2-2,shoot on sight,zonal marking,yes,normal,no,4-4-2 b,passing game,zonal marking,no,normal,no,attack only,stay in position,attacking full-backs,82,78,77,4,0,4,64,36,11,5,won
+strong,4-3-3 b,passing game,man marking,yes,aggresive,no,4-3-3 a,wing play,zonal marking,no,normal,no,attack only,stay in position,defend deep,65,77,66,6,1,5,71,29,17,4,won
+strong,4-3-3 b,shoot on sight,zonal marking,no,aggresive,no,4-3-3 a,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,65,77,66,4,0,4,59,41,12,8,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,73,71,71,3,0,3,70,30,13,4,won
+strong,4-4-2 b,wing play,man marking,no,normal,no,4-3-3 b,wing play,zonal marking,no,careful,no,attack only,stay in position,defend deep,75,75,75,2,0,2,62,38,15,6,won
+strong,4-2-3-1,passing game,zonal marking,no,normal,no,4-5-1,wing play,zonal marking,no,normal,no,attack only,push forward,defend deep,61,63,79,3,0,3,63,37,15,3,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,76,77,76,3,0,3,63,37,12,3,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,73,71,71,2,0,2,59,41,9,6,won
+strong,4-5-1,counter-attack,man marking,no,normal,no,4-2-3-1,wing play,zonal marking,yes,normal,no,attack only,push forward,defend deep,73,71,71,2,0,2,70,30,13,3,won
+strong,3-3-4 a,long ball,zonal marking,yes,normal,no,4-3-3 b,wing play,zonal marking,no,aggresive,no,attack only,stay in position,defend deep,71,71,71,3,0,3,63,37,20,2,won
