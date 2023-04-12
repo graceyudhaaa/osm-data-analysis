@@ -1,7 +1,4 @@
 import pandas as pd
-import sys
-sys.path.append("..") # resolve annoying import error from pytest
-
 from utils.formation_recommendation import formation_recommendation
 
 df = pd.read_csv('data/processed/osm_data.csv')
