@@ -1,4 +1,4 @@
-def formation_reccomendation(df):
+def formation_recommendation(df):
     formation_dict = {}
     for i in df[['strength', 'formation', 'opponent_formation', 'result']].iterrows():
         row = i[1] 
