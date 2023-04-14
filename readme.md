@@ -35,7 +35,7 @@ the raw data column description are
 	</tr>
 	<tr>
 		<td>Away</td>
-		<td>Name of the home team</td>
+		<td>Name of the away team</td>
 	</tr>
 	<tr>
 		<td>Stronger Team</td>
