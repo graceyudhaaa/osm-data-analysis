@@ -1,3 +1,5 @@
+# OSM Data Analysis Project
+
 <a name="readme-top"></a>
 ## About The Project
 
@@ -12,7 +14,7 @@ This project aim to get useful information from the collected data so that we ca
 
 Analysis of the data are derive from this diagram
 
-![Analysis diagram](image\OSM_IO_diagram.excalidraw.png)
+![Analysis diagram](https://raw.githubusercontent.com/graceyudhaaa/osm-data-analysis/master/image/OSM_IO_diagram.excalidraw.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Data
