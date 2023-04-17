@@ -1,0 +1,114 @@
+{
+  "4-3-3 b": {
+    "weak": [
+      "shoot on sight"
+    ],
+    "strong": [
+      "wing play",
+      "shoot on sight",
+      "passing game"
+    ],
+    "equal": []
+  },
+  "4-2-3-1": {
+    "weak": [
+      "counter-attack"
+    ],
+    "strong": [
+      "shoot on sight",
+      "counter-attack",
+      "wing play"
+    ],
+    "equal": [
+      "counter-attack"
+    ]
+  },
+  "4-4-2 b": {
+    "weak": [
+      "shoot on sight",
+      "wing play"
+    ],
+    "strong": [
+      "wing play"
+    ],
+    "equal": [
+      "wing play"
+    ]
+  },
+  "3-3-4 a": {
+    "weak": [
+      "wing play"
+    ],
+    "strong": [
+      "wing play"
+    ],
+    "equal": []
+  },
+  "3-3-2-2": {
+    "weak": [],
+    "strong": [
+      "passing game",
+      "shoot on sight"
+    ],
+    "equal": [
+      "passing game"
+    ]
+  },
+  "3-4-3 a": {
+    "weak": [
+      "shoot on sight"
+    ],
+    "strong": [
+      "shoot on sight"
+    ],
+    "equal": []
+  },
+  "4-3-3 a": {
+    "weak": [
+      "shoot on sight"
+    ],
+    "strong": [
+      "wing play",
+      "shoot on sight",
+      "passing game"
+    ],
+    "equal": []
+  },
+  "4-5-1": {
+    "weak": [],
+    "strong": [
+      "shoot on sight",
+      "wing play",
+      "passing game"
+    ],
+    "equal": []
+  },
+  "5-3-1-1": {
+    "weak": [],
+    "strong": [
+      "passing game"
+    ],
+    "equal": []
+  },
+  "5-2-3 a": {
+    "weak": [],
+    "strong": [
+      "passing game"
+    ],
+    "equal": []
+  },
+  "5-4-1 a": {
+    "weak": [],
+    "strong": [
+      "passing game"
+    ],
+    "equal": []
+  },
+  "5-3-2": {
+    "weak": [],
+    "strong": [
+      "passing game"
+    ],
+    "equal": []
+  }
+}

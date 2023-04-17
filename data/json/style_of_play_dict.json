@@ -1,0 +1,61 @@
+{
+  "shoot on sight": {
+    "weak": [
+      "shoot on sight",
+      "counter-attack"
+    ],
+    "strong": [
+      "passing game",
+      "shoot on sight",
+      "wing play",
+      "counter-attack"
+    ],
+    "equal": [
+      "passing game",
+      "wing play"
+    ]
+  },
+  "passing game": {
+    "weak": [
+      "counter-attack",
+      "shoot on sight"
+    ],
+    "strong": [
+      "shoot on sight",
+      "wing play",
+      "passing game"
+    ],
+    "equal": [
+      "counter-attack"
+    ]
+  },
+  "wing play": {
+    "weak": [
+      "wing play"
+    ],
+    "strong": [
+      "wing play",
+      "passing game"
+    ],
+    "equal": []
+  },
+  "long ball": {
+    "weak": [
+      "wing play"
+    ],
+    "strong": [
+      "wing play",
+      "passing game",
+      "shoot on sight"
+    ],
+    "equal": []
+  },
+  "counter-attack": {
+    "weak": [],
+    "strong": [
+      "shoot on sight",
+      "wing play"
+    ],
+    "equal": []
+  }
+}
