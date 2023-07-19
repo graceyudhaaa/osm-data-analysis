@@ -4,6 +4,7 @@
 ## About The Project
 
 
+
 This project is an attempt to analyze data that personally collected by me from the game Online Soccer Manager across 4 different league (Indonesia, Spain, England 2nd Division, Germany)
 
 This project aim to get useful information from the collected data so that we can apply the information in form of tactic in the future matches.
