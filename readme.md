@@ -190,7 +190,7 @@ the raw data column description are
 	</tr>
 	<tr>
 		<td>opponent_training_camp</td>
-		<td>whether or not opponent use training camp (or secret camp) or not</td>
+		<td>whether or not opponent use training camp (or secret camp)</td>
 	</tr>
 	<tr>
 		<td>formation</td>
